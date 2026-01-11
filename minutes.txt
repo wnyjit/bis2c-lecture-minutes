@@ -17,14 +17,49 @@ basic concepts of phylogenetic trees - 33
 	permanent splits, MRCA most recent common ancestor, taxon taxa - 33
 	speciation - 36
 	direction of a phylogenetic tree - 38
-	terminal, tip, internal node, internal branch, root, root - 41
+	terminal, tip, internal node, internal branch, root node- 41
 
 	dont be mislead by adjacency of terminals - 44
-	clicker q2 - 45
+		clicker q2 - 45
 
 monophyletic group, clade, paraphyletic group, polyphyletic group - 48
 	wolf and bat poly para group example - 50
 wvwvwvwvwvwvwvwwvwvwvwvw 1 - 5 monday wvwvwvwvwvwvwvwwvwvwvwvw
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+wvwvwvwvwvwvwvwwvwvwvwvw 1 - 7 wednesday wvwvwvwvwvwvwvwwvwvwvwvw
+bifurcating tree - 5
+polytomy polytomies, uncertainty - 6
+	resolution of the polytomy - 7
+	clicker q1 - 8
+
+monophyletic group / clade - 13
+	clicker q2 - 14
+
+non-monophyletic groups - 16
+	paraphyletic group, polyphyletic group - 16
+	example of paraphyletic - 18
+		clicker q3 - 19
+	clicker q4 - 22
+	fish are paraphyletic example - 27
+
+synapomorphies - 28
+	synapomorphies dont have to be unique - 31
+
+homologous trait - 32
+	four chamber heart example - 35
+
+phylogeny and classification - 36
+	binomial name, higher taxa, uninomial, ranked heirarchy - 37
+
+sister group - 44	
+ingroup, outgroup - 46
+	derived trait, ancestral traits - 47
+
+cladogram, phylogram, chronogram - 50
+wvwvwvwvwvwvwvwwvwvwvwvw 1 - 7 wednesday wvwvwvwvwvwvwvwwvwvwvwvw
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
