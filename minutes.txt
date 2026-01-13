@@ -66,10 +66,35 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 wvwvwvwvwvwvwvwwvwvwvwvw 1 - 9 friday first wvwvwvwvwvwvwvwwvwvwvwvw
 synapomorphy and homology - 5
+
+video - 8
+
+how do we estimate phylogenies? - 19
+	characters character states - 19
+		data matrix - 21
+		principle of parsimony - 23
+
+unrooted tree - 25
+	clicker q1 - 29
+
+parsimony uninformative parsimony informative - 33
+
+how to root unrooted tree - 41
 wvwvwvwvwvwvwvwwvwvwvwvw 1 - 9 friday first wvwvwvwvwvwvwvwwvwvwvwvw
 
 wvwvwvwvwvwvwvwwvwvwvwvw 1 - 9 friday second wvwvwvwvwvwvwvwwvwvwvwvw
-asdf
+clicker q1, clicker q2 - 6
+clicker q3 - 11
+clicker q4 - 16
+
+character conflict - 28
+
+model based approach - 31
+
+transitions transversions - 34
+	clicker q5 - 36
+
+synonymous substitution nonsynonymous substitution - 47
 wvwvwvwvwvwvwvwwvwvwvwvw 1 - 9 friday second wvwvwvwvwvwvwvwwvwvwvwvw
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
